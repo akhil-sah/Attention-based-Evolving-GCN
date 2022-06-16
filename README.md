@@ -1,6 +1,6 @@
 # Attention based Evolving GCN
 
-Attention based Evolving GCN is a novel method for link prediction in temporal graphs. With method described in the paper [EvolveGCN](https://arxiv.org/abs/1902.10191) (Aldo Pareja et al) acting as the base model and integration of attention mechanism (inspired by [GAT]()), the method achieved good performance on various datasets.
+Attention based Evolving GCN is a novel method for link prediction in temporal graphs. With method described in the paper [EvolveGCN](https://arxiv.org/abs/1902.10191) (Aldo Pareja et al) acting as the base model and integration of attention mechanism (inspired by [GAT](https://arxiv.org/abs/1710.10903)), the method achieved good performance on various datasets.
 
 ## Table of contents
 
