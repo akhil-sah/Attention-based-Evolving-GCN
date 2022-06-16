@@ -39,8 +39,7 @@ No special instructions are there for running the model. Just run all the cells 
 ## Performance
 
 For both the datasets, first 40 timesteps were used for training and the next 10 time steps for testing.
-- BC-OTC: Cost over different epochs
+- BC-OTC: Cost over different epochs<br>
 ![Model performance on BC-OTC dataset](./images/bc-otc.PNG)
-
-- Yelp: Cost over different epochs
+- Yelp: Cost over different epochs<br>
 ![Model performance on Yelp dataset](./images/yelp_cost.PNG)
