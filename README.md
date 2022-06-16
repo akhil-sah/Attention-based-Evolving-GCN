@@ -43,4 +43,4 @@ For both the datasets, first 40 timesteps were used for training and the next 10
 ![Model performance on BC-OTC dataset](./images/bc-otc.PNG)
 
 - Yelp: Cost over different epochs
-![Model performance on Yelp dataset](./images/yelp-cost.PNG)
+![Model performance on Yelp dataset](./images/yelp_cost.PNG)
